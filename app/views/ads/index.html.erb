@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MyBay</title>
+</head>
+<body>
+    <h1>MyBay</h1>
+    
+    <% for ad in @ads %>
+        <a href="/ads/<%= ad.id %>"><%= ad.name %></a>
+    <% end %>
+</body>
+</html>

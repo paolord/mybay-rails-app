@@ -1,3 +1,3 @@
-# MyBay Excercise Rails App
+# MyBay Exercise Rails App
 
-Another Ruby on Rails excercise for my Web Engineering Masters degree class.
+Another Ruby on Rails exercise for my Web Engineering Masters degree class.
